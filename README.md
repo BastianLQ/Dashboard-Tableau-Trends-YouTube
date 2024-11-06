@@ -35,9 +35,9 @@ Después de hablar con los administradores de la base de datos, se reunieron los
   - Categoría de video
   - País
 - __Los datos:__
-  - Historial de tendencias — valores absolutos ordenados por día (dos gráficos: números absolutos y proporción de porcentaje)
-  - Eventos, ordenados por país — valores relativos (% de eventos)
-  - La correspondencia entre las categorías y los países — valores absolutos (una tabla)
+  - __Historial de tendencias__ — valores absolutos ordenados por día (dos gráficos: números absolutos y proporción de porcentaje)
+  - __Eventos, ordenados por país__ — valores relativos (% de eventos)
+  - __La correspondencia entre las categorías y los países__ — valores absolutos (una tabla)
 - __Importancia:__ todaos los gráficos son igualmente importantes
 - __Fuentes de datos para el dashboard:__ los ingenieros crearon una tabla de agregación llamada `trending_by_time`. Esta es la estructura:
   - `record_id`: la clave primaria
