@@ -21,10 +21,34 @@ Cada semana, se solicita la siguiente información:
 Debido a esta situación es que se debe crear un dashboard para automatizar el proceso de obtener respuestas a estas preguntas.
 
 ## Proceso del Proyecto
-- __Descripción de los datos:__ Los datos fueron extraídos de [cinco datasets](https://drive.google.com/drive/folders/11ludpzThvf-xB6LfZW_xzCBK1Z91M_KA?usp=sharing) proporcionados por Instacart _(los datasets están en Drive porque superan el peso máximo permitido de GitHub)_, en esta fase, también, se les da una revisión superficial y se corrigen problemas de importación si es que llegasen a surgir.
-- __Preprocesamiento de los datos:__ Se realizaron varias operaciones de limpieza, incluyendo manejo de valores nulos, normalización y formateo de datos.
-- __Análisis Exploratorio de Datos (EDA):__ Esta fase se centró en analizar la integridad de los datos y rescatar insights valiosos. Utilizando pandas se exploraron los datos para obtener una comprensión inicial, intermedia y avanzada, y con matplotlib, se generaron visualizaciones para ilustrar los hallazgos clave del análisis.
-- __Resultados:__ Se identificaron patrones y tendencias en los datos, como los productos más vendidos y reordenados, y el comportamiento general de los clientes en términos de cantidad de artículos por pedido.
+Después de hablar con los administradores de la base de datos, reuniste unos requisitos técnicos:
+
+- Objetivo de negocios: analizar el historial de tendencias de videos en YouTube
+- Con qué frecuencia se usará el dashboard: al menos una vez al día
+- Usuario objetivo del dashboard: gerentes de planificación de videos publicitarios
+- Contenido de los datos del dashboard:
+  - Tendencias pasadas de videos, ordenadas por día y categoría
+  - Tendencias de videos, ordenadas por país
+  - Una tabla de correspondencia entre categorías y países
+- Parámetros para agrupar los datos:
+  - Fecha y hora de tendencia
+  - Categoría de video
+  - País
+- Los datos:
+  - Historial de tendencias — valores absolutos ordenados por día (dos gráficos: números absolutos y proporción de porcentaje)
+  - Eventos, ordenados por país — valores relativos (% de eventos)
+  - La correspondencia entre las categorías y los países — valores absolutos (una tabla)
+- Importancia: todaos los gráficos son igualmente importantes
+- Fuentes de datos para el dashboard: los ingenieros prometieron crear una tabla de agregación llamada `trending_by_time`. Esta es la estructura:
+  - `record_id`: la clave primaria
+  - `region`: país/región geográfica
+  - `trending_date`: fecha y hora
+  - `category_title`: categoría del video
+  - `videos_count`: número de videos en la sección de tendencias
+- La tabla está en la base de datos `youtube`, que se creó especialmente para tus necesidades.
+- Intervalo de actualización de los datos: una vez cada 24 horas, a la media noche UTC
+- Gráficos, controles de dashboard y su orden:
+<image src="https://github.com/BastianLQ/Dashboard-trends-YouTube/blob/main/dashboard.jpg" alt="Dashboard">
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
