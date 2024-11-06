@@ -1,5 +1,5 @@
 # Dashboard-trends-YouTube
-__Proyecto de análisis a la plataforma de delivery Instacart, análisis exploratiorio y visualización de datos__
+__Creación de dashboard interactivo en Tablau__
 
 <image src="https://github.com/BastianLQ/Dashboard-trends-YouTube/blob/main/dashboard.jpg" alt="Dashboard">
 
