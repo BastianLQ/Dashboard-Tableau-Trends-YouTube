@@ -48,7 +48,7 @@ Después de hablar con los administradores de la base de datos, reuniste unos re
 - La tabla está en la base de datos `youtube`, que se creó especialmente para tus necesidades.
 - Intervalo de actualización de los datos: una vez cada 24 horas, a la media noche UTC
 - Gráficos, controles de dashboard y su orden:
-<image src="https://github.com/BastianLQ/Dashboard-trends-YouTube/blob/main/dashboard.jpg" alt="Dashboard">
+<image src="https://github.com/BastianLQ/Dashboard-trends-YouTube/blob/main/plan.png" alt="Estructura de dashboard">
 
 ## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)
 Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
