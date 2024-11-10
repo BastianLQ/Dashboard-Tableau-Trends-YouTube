@@ -1,7 +1,7 @@
 # Dashboard-trends-YouTube
 __Creación de dashboard interactivo en Tablau__
 
-<image src="https://github.com/BastianLQ/Dashboard-trends-YouTube/blob/main/dashboard.jpg" alt="Dashboard">
+<image src="https://github.com/BastianLQ/Dashboard-trends-YouTube/blob/main/db.jpg" alt="Dashboard">
 
 _Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
 
