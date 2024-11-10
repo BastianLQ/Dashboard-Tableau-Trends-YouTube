@@ -3,7 +3,7 @@ __Creación de dashboard interactivo en Tablau__
 
 <image src="https://github.com/BastianLQ/Dashboard-trends-YouTube/blob/main/db.jpg" alt="Dashboard">
 
-_Fragmentos del notebook, para ver proyecto completo hacer click [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)_
+_Captura de pantalla del dashboard, para ver en Tableau hacer click [aquí](https://public.tableau.com/app/profile/basti.n.l.pez/viz/TendenciasenYoutube/TendenciasenYouTube)_
 
 ## Descripción del Proyecto
 Se trabaja como analista de vídeos publicitarios para la agencia de publicidad Sterling & Draper. Se dedica mucho tiempo a analizar tendencias de vídeos en YouTube para determinar qué contenido merece atención para la mercadotecnia.
@@ -50,5 +50,5 @@ Después de hablar con los administradores de la base de datos, se reunieron los
 - __Gráficos, controles de dashboard y su orden:__
 <image src="https://github.com/BastianLQ/Dashboard-trends-YouTube/blob/main/plan.png" alt="Estructura de dashboard">
 
-## Ejecuta el proyecto [aquí](https://portfoliodabastianlopez.on.drv.tw/Portafolio/An%C3%A1lisis%20Instacart.html)
-Para ver el diccionario de datos, el desarrollo completo en código, todos los gráficos y las conclusiones, haga click en el enlace de arriba.
+## Ejecuta el dashboard [aquí](https://public.tableau.com/app/profile/basti.n.l.pez/viz/TendenciasenYoutube/TendenciasenYouTube)
+Para ver e interactuar con el dashboard haz click en el enlace de arriba.
