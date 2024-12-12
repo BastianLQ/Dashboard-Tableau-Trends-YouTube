@@ -1,4 +1,4 @@
-# Dashboard-trends-YouTube
+# Dashboard-Tableau-Trends-YouTube
 __Creación de dashboard interactivo en Tablau__
 
 <image src="https://github.com/BastianLQ/Dashboard-trends-YouTube/blob/main/Dashboard.jpg" alt="Dashboard">
