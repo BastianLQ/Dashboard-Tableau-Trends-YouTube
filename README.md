@@ -6,7 +6,7 @@ __Creación de dashboard interactivo en Tablau__
 _Captura de pantalla del dashboard, para ver en Tableau hacer click [aquí](https://public.tableau.com/app/profile/basti.n.l.pez/viz/TendenciasenYoutube/TendenciasenYouTube)_
 
 ## Descripción del Proyecto
-Se trabaja como analista de vídeos publicitarios para la agencia de publicidad Sterling & Draper. Se dedica mucho tiempo a analizar tendencias de vídeos en YouTube para determinar qué contenido merece atención para la mercadotecnia.
+En este proyecto se simula ser analista de vídeos publicitarios para una agencia de publicidad llamada Sterling & Draper. Se dedica mucho tiempo a analizar tendencias de vídeos en YouTube para determinar qué contenido merece atención para la mercadotecnia.
 
 Cada video tiene una categoría específica (entretenimiento, música, noticias y política, etc.), una región y una fecha en que se hace tendencia.
 
