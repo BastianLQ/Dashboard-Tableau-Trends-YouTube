@@ -1,7 +1,7 @@
 # Dashboard-Tableau-Trends-YouTube
 __Creación de dashboard interactivo en Tablau__
 
-<image src="https://github.com/BastianLQ/Dashboard-trends-YouTube/blob/main/Dashboard.jpg" alt="Dashboard">
+<image src="https://github.com/BastianLQ/Dashboard-Tableau-Trends-YouTube/blob/main/Images/youtube.jpg" alt="Dashboard">
 
 _Captura de pantalla del dashboard, para ver en Tableau hacer click [aquí](https://public.tableau.com/app/profile/basti.n.l.pez/viz/TendenciasenYoutube/TendenciasenYouTube)_
 
