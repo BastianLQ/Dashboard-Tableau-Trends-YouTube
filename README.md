@@ -48,7 +48,7 @@ Después de hablar con los administradores de la base de datos, se reunieron los
 - La tabla está en la base de datos `youtube`, que se creó especialmente para necesidades de análisis.
 - __Intervalo de actualización de los datos:__ una vez cada 24 horas, a la media noche UTC
 - __Gráficos, controles de dashboard y su orden:__
-<image src="https://github.com/BastianLQ/Dashboard-trends-YouTube/blob/main/plan.png" alt="Estructura de dashboard">
+<image src="https://github.com/BastianLQ/Dashboard-Tableau-Trends-YouTube/blob/main/Images/plan.png" alt="Estructura de dashboard">
 
 ## Ejecuta el dashboard [aquí](https://public.tableau.com/app/profile/basti.n.l.pez/viz/TendenciasenYoutube/TendenciasenYouTube)
 Para ver e interactuar con el dashboard haz click en el enlace de arriba.
