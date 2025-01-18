@@ -1,4 +1,4 @@
-# Dashboard-Tableau-Trends-YouTube
+# Creación de dashboard: Sterling & Draper
 __Creación de dashboard interactivo en Tablau__
 
 <image src="https://github.com/BastianLQ/Dashboard-Tableau-Trends-YouTube/blob/main/Images/youtube.jpg" alt="Dashboard">
