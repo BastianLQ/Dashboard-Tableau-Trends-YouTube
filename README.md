@@ -50,5 +50,9 @@ Después de hablar con los administradores de la base de datos, se reunieron los
 - __Gráficos, controles de dashboard y su orden:__
 <image src="https://github.com/BastianLQ/Dashboard-Tableau-Trends-YouTube/blob/main/Images/plan.png" alt="Estructura de dashboard">
 
+## Resultados destacables
+- Se ha preparado una [presentación](https://github.com/BastianLQ/Dashboard-Tableau-Trends-YouTube/blob/main/Tendencias%20Regionales%20en%20Youtube.pdf) con los descubrimientos más importantes de la construcción del dashboard.
+- Se ha conseguido ahorrar un 50% de tiempo en la recopilación de información sobre las tendencias semanales en Youtube.
+
 ## Ejecuta el dashboard [aquí](https://public.tableau.com/app/profile/basti.n.l.pez/viz/TendenciasenYoutube/TendenciasenYouTube)
 Para ver e interactuar con el dashboard haz click en el enlace de arriba.
